@@ -1,0 +1,48 @@
+[
+    
+    {
+        "movie": "Avengers",
+        "image": "/assets/avengers.jpg",
+        "description": "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.",
+        "director": "Joss Whedon",
+        "year": "2012",
+        "rating": "8.0",
+        "category": "Action, Adventure, Sci-Fi"
+    },
+    {
+        "movie": "Conjuring",
+        "image": "./assets/conjuring.jpg",
+        "description": "Paranormal investigators Ed and Lorraine Warren work to help a family terrorized by a dark presence in their farmhouse.",
+        "director": "James Wan",
+        "year": "2013",
+        "rating": "7.5",
+        "category": "Horror, Thriller"
+    },
+    {
+        "movie": "Incidious",
+        "image": "./assets/incidious.jpg",
+        "description": "A family looks to prevent evil spirits from trapping their comatose child in a realm called The Further.",
+        "director": "James Wan",
+        "year": "2026",
+        "rating": "6.8",
+        "category": "Horror, Mystery, Thriller"
+    },
+    {
+        "movie": "The Dark Knight",
+        "image": "./assets/TheDarkNight.jpg",
+        "description": "When the menace known as the Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham. The Dark Knight must accept one of the greatest psychological.",
+        "director": "Christopher Nolan",
+        "year": "2008",
+        "rating": "9.0",
+        "category": "Action, Crime, Drama"
+    },
+    {
+        "movie": "Interstellar",
+        "image": "./assets/instersteller.jpg",
+        "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+        "director": "Christopher Nolan",
+        "year": "2014",
+        "rating": "8.6",
+        "category": "Adventure, Drama, Sci-Fi" 
+    }
+]

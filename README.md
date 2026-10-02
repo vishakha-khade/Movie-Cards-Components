@@ -37,16 +37,27 @@ While building this project, I practiced:
 
 ## Project Structure
 
-```text
-src/
-├── assets/
-│   ├── movie images
+Reus.../
+├── public/
+│   └── assets/
+│       ├── avengers.jpg
+│       ├── conjuring.jpg
+│       ├── incidious.jpg
+│       ├── intersteller.jpg
+│       └── TheDarkNight.jpg
 │
-├── components/
-│   ├── Movie.jsx
-│   └── Card.css
+├── src/
+│   ├── components/
+│   │   ├── Card.css
+│   │   └── Card.jsx
+│   │
+│   ├── App.css
+│   ├── App.jsx
+│   ├── data.json
+│   ├── index.css
+│   └── main.jsx
 │
-├── data.json
-├── App.jsx
-├── App.css
-└── main.jsx
+├── README.md
+├── index.html
+├── package.json
+└── vite.config.js
